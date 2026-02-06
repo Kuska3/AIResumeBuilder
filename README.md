@@ -77,7 +77,7 @@ Look for the **Magic Wand** icon in various sections:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ai-resume-builder.git
+   git clone https://github.com/Kuska3/AIResumeBuilder.git
    cd ai-resume-builder
    ```
 
